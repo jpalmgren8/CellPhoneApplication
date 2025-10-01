@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fef734b1-a76b-456d-badb-389059b80f80" name="Changes" comment="First commit for cell phone application. Implemented classes, constructors, scanner, and sout.">
+    <list default="true" id="fef734b1-a76b-456d-badb-389059b80f80" name="Changes" comment="Second commit, fixed constructor to be empty because values are already defined.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/pluralsight/CellPhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pluralsight/CellPhone.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/pluralsight/CellPhoneApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pluralsight/CellPhoneApplication.java" afterDir="false" />
@@ -71,11 +71,20 @@
       <option name="project" value="LOCAL" />
       <updated>1759330085337</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Second commit, fixed constructor to be empty because values are already defined.">
+      <option name="closed" value="true" />
+      <created>1759332289915</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1759332289915</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit for cell phone application. Implemented classes, constructors, scanner, and sout." />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit for cell phone application. Implemented classes, constructors, scanner, and sout." />
+    <MESSAGE value="Second commit, fixed constructor to be empty because values are already defined." />
+    <option name="LAST_COMMIT_MESSAGE" value="Second commit, fixed constructor to be empty because values are already defined." />
   </component>
 </project>
